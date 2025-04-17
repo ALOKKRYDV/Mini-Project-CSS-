@@ -76,7 +76,7 @@
     padding-right: 8px;
 }
 .sidebar_menu .social_media{
-    position: relative;
+    position: absolute;
     left: 25%;
     bottom: 50px;
 }
